@@ -1,0 +1,5 @@
+,count,unique,top,freq
+id,1458644,1458644,id0504009,1
+pickup_datetime,1458644,1380222,2016-04-05 18:55:21,5
+dropoff_datetime,1458644,1380377,2016-05-16 19:40:28,5
+store_and_fwd_flag,1458644,2,N,1450599
